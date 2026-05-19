@@ -1,101 +1,154 @@
-# Hi, I'm Aza 👋
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
-I'm an **Information Security** student at **Astana IT University** (CS_2521), passionate about ethical hacking, SOC operations, and building practical security tools. I love combining hardware and software — from ESP32 smart home systems to custom electric motors.
-
----
-
-## 🎯 Objective
-
-My journey in information security has shaped a deep passion for offensive and defensive security. I'm currently building hands-on experience through CTF competitions, personal lab projects, and SOC tooling — with the goal of joining a **Security Operations Center as a Tier 1 Analyst** and growing toward penetration testing.
+# Hi, I'm Azamat 👋
+<a href="https://www.linkedin.com/in/azamat-nakonov-5340963a3">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
 ---
 
-## 🛠️ Skills
+# 🚀 About Me
+
+I am a Cybersecurity student at Astana IT University passionate about SOC operations, threat detection, ethical hacking, and embedded systems.
+
+I enjoy building labs, analyzing attacks, automating security tasks, and researching cybersecurity technologies.
+
+Currently focused on:
+- SOC Analyst Skills
+- Threat Hunting
+- SIEM & Log Analysis
+- Network Security
+- Ethical Hacking
+- Python Automation
+- Embedded Security
+
+---
+
+# 🎯 Objective
+
+My goal is to become a SOC Analyst and continue growing into Threat Hunting and Penetration Testing roles.
+
+I actively improve my practical cybersecurity skills through home labs, research projects, CTFs, and real-world simulations.
+
+---
+
+# 🛠 Skills
 
 | Skill | Associated Project |
-|---|---|
-| SIEM Implementation and Log Analysis | [Detection Lab](#) |
-| Network Traffic Monitoring and Attack Detection | [Detection Lab](#) |
-| Security Automation with Shuffle SOAR | [SOC Automation Lab](#) |
-| Incident Response Planning and Execution | [SOC Automation Lab](#) |
-| Case Management with TheHive | [SOC Automation Lab](#) |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#) |
-| Honeypot Deployment and Monitoring | [Raspberry Pi Security System](#) |
-| Embedded Systems & IoT Security | [Smart Home ESP32 Project](#) |
+|-------|--------------------|
+| SIEM Implementation & Log Analysis | Detection Lab |
+| Network Traffic Analysis | Threat Monitoring Lab |
+| Incident Response | SOC Automation Project |
+| Python Automation | Security Scripts |
+| Linux Administration | Home Cyber Lab |
+| Threat Detection & Investigation | SOC Detection Lab |
+| Web Application Testing | Burp Suite Lab |
+| Vulnerability Assessment | Metasploit Research |
+| OSINT & Reconnaissance | Shodan & theHarvester Lab |
+| Malware & Payload Research | Payload Testing Environment |
+| Packet Analysis | Wireshark Network Analysis |
 
 ---
 
-## 🧰 Tools
+# 🔧 Tools
 
-### Network
-<div>
-  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=nmap&logoColor=white" />
-</div>
+## 🌐 Network & Pentesting
 
-### Endpoint
 <div>
-  <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-  <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
-
-### Development & Automation
-<div>
-  <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Bash-4EAA25?&style=for-the-badge&logo=gnubash&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Raspberry_Pi-A22846?&style=for-the-badge&logo=Raspberry-Pi&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ESP32-E7352C?&style=for-the-badge&logo=espressif&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/-Nmap-004170?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burp_Suite-F57900?&style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/-Metasploit-2596CD?&style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/-Gophish-FF6B00?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Shodan-FF0000?&style=for-the-badge&logo=shodan&logoColor=white" />
+<img src="https://img.shields.io/badge/-theHarvester-444444?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+<img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
 ---
 
-## 📜 Certifications
+## 📊 SIEM & Security
 
 <div>
-  <img src="https://img.shields.io/badge/-CISSP_Prep_Bootcamp-005073?&style=for-the-badge&logo=ISC2&logoColor=white" />
+<img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+<img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+<img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-> Currently working toward: CompTIA Security+, CEH
+---
+
+## 💻 Operating Systems & Programming
+
+<div>
+<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
+</div>
 
 ---
 
-## 🚀 Projects
+# 📜 Certifications
 
-### 🔐 SOC Automation Lab
-Full SOC pipeline using Shuffle SOAR, TheHive for case management, and automated alerting. Covers incident response workflows from detection to containment.
-
-### 🔍 Detection Lab
-Home lab with SIEM integration, custom detection rules, and log analysis pipeline. Simulated attacks and built alerts for common TTPs.
-
-### 🍓 Raspberry Pi Security System
-Pi-hole for DNS-level ad/tracker blocking + Cowrie SSH honeypot to capture and analyze attacker behavior. Logs attackers' commands and credentials in real time.
-
-### 🏠 ESP32 Smart Home
-Smart home automation using ESP32 microcontrollers with sensor integration and Telegram bot control. Designed with security in mind — isolated IoT network, encrypted communication.
-
-### 🤖 Telegram Bots
-Multiple utility bots built with `pyTelegramBotAPI` — including a home monitoring bot and a notification system for security events.
-
-### ⚡ DIY Electric Motor
-Custom 6-phase, 72V, 18-coil brushless motor built from scratch. Also powering an RC car with four 1.6kW motors.
+<div>
+<img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
+<img src="https://img.shields.io/badge/-ICIP-0047AB?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-OPSWAT_Academy-5C2D91?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CISSP_Bootcamp-0052CC?&style=for-the-badge&logoColor=white" />
+</div>
 
 ---
 
-## 📊 GitHub Stats
+# 📂 Projects
 
-![Aza's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=dark&hide_border=true)
+## 🔍 Detection Lab
+- Log monitoring and alert analysis
+- SIEM event investigation
+- Threat detection practice
+
+## 🤖 SOC Automation Project
+- Automated security workflows
+- Alert handling and response
+- Incident response simulations
+
+## 🏠 Smart Home Security System
+- Raspberry Pi based monitoring
+- Telegram alert integration
+- Device discovery and management
+
+## 🌐 Web Security Research
+- Burp Suite testing labs
+- Web vulnerability analysis
+- HTTP request manipulation
+
+## 🧠 OSINT & Recon Lab
+- Shodan reconnaissance
+- theHarvester enumeration
+- Information gathering techniques
+
+## ⚡ Embedded Systems Research
+- 6-phase motor experiments
+- ESP32 projects
+- Embedded controller development
 
 ---
 
-*"The quieter you become, the more you are able to hear."* — Kali Linux motto
+# 📈 Currently Learning
+
+- Threat Hunting
+- Malware Analysis
+- Detection Engineering
+- Active Directory Security
+- Cloud Security
+- Reverse Engineering
+
+---
+
+# 📫 Contact
+
+📧 Email: azamatnakonov@gmail.com  
+💼 LinkedIn: www.linkedin.com/in/azamat-nakonov-5340963a3
