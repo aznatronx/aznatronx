@@ -1,38 +1,60 @@
-Привет, я CHANGEME
+# Hello, I'm CHANGEME
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
+[Brief Introduction - Remove this afterwards]
 
-[Краткое введение - Удалите это позже]
+I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
-Я недавно окончил университет, проявляю глубокий интерес к технологиям и стремлюсь к решению сложных задач.
+## Objective
+[Provide Objective - Remove this afterwards]]
 
-Цель
-[Укажите цель — удалите это позже]]
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-Мой опыт в области компьютерных наук привел меня к увлечению кибербезопасностью, и теперь я стремлюсь перейти в эту сферу, в частности, на должность аналитика первого уровня в Центре оперативного управления безопасностью (SOC).
+## Skills
+[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
-Навыки
-[Укажите навыки и соответствующий проект. Обязательно добавьте гиперссылку на проект — удалите её позже]]
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-Навык	Связанный проект
-Внедрение SIEM-системы и анализ журналов событий.	Лаборатория обнаружения
-Мониторинг сетевого трафика и обнаружение атак	Лаборатория обнаружения
-Автоматизация безопасности с помощью Shuffle SOAR	Лаборатория автоматизации SOC
-Планирование и выполнение мер реагирования на инциденты	Лаборатория автоматизации SOC
-Управление делами с помощью TheHive	Лаборатория автоматизации SOC
-Создание скриптов и автоматизация для смягчения угроз.	Лаборатория автоматизации SOC
-Инструменты
-[Предоставьте инструменты и разделите их на категории. Используйте ChatGPT для создания ссылки — удалите это позже]]
+## Tools
+[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
-Сеть
-  
-Конечная точка
- 
-СИЕМ
-  
-Сертификаты
-[Укажите полученные вами сертификаты. Используйте ChatGPT для создания ссылки — удалите это после завершения]]
+### Network
+<div>
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+</div>
 
-    
-Проекты
-Лаборатория обнаружения
-Проект автоматизации SOC
+### Endpoint
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+</div>
+
+### SIEM
+<div>
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+</div>
+
+## Certifications
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+</div>
+
+## Projects
+- Detection Lab
+- SOC Automation Project
