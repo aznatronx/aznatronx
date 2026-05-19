@@ -78,12 +78,19 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 ---
 
-## 💻 Operating Systems & Programming
+## 🖥 Operating Systems
 
 <div>
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
+</div>
+
+---
+
+## 💻 Programming
+
+<div>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/-Bash-121011?&style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img src="https://img.shields.io/badge/-C++-00599C?&style=for-the-badge&logo=cplusplus&logoColor=white" />
