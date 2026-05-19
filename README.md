@@ -24,7 +24,7 @@ Currently focused on:
 
 # 🎯 Objective
 
-My goal is to become a SOC Analyst and continue growing into Threat Hunting and Penetration Testing roles.
+My background in computer science has led me to develop a strong passion for cybersecurity, and I now aspire to build a career in this field, specifically as a Tier 1 Security Operations Center (SOC) Analyst, while continuing to develop my skills in threat hunting and penetration testing.
 
 I actively improve my practical cybersecurity skills through home labs, research projects, CTFs, and real-world simulations.
 
