@@ -1,4 +1,4 @@
-# Hi, I'm Azamat 👋
+# Hi, I'm Azamat 
 <a href="https://www.linkedin.com/in/azamat-nakonov-5340963a3">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -50,7 +50,7 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 # 🔧 Tools
 
-## 🌐 Network & Pentesting
+## Network & Pentesting
 
 <div>
 <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
@@ -66,7 +66,7 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 ---
 
-## 📊 SIEM & Security
+## SIEM & Security
 
 <div>
 <img src="https://img.shields.io/badge/-Wazuh-005571?&style=for-the-badge&logo=wazuh&logoColor=white" />
@@ -78,7 +78,7 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 ---
 
-## 🖥 Operating Systems
+## Operating Systems
 
 <div>
 <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
@@ -88,7 +88,7 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 ---
 
-## 💻 Programming
+## Programming
 
 <div>
 <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=python&logoColor=white" />
@@ -98,7 +98,7 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 ---
 
-# 📜 Certifications
+# Certifications
 
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
@@ -110,39 +110,39 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 # 📂 Projects
 
-## 🔍 Detection Lab
+## Detection Lab
 - Log monitoring and alert analysis
 - SIEM event investigation
 - Threat detection practice
 
-## 🤖 SOC Automation Project
+## SOC Automation Project
 - Automated security workflows
 - Alert handling and response
 - Incident response simulations
 
-## 🏠 Smart Home Security System
+## Smart Home Security System
 - Raspberry Pi based monitoring
 - Telegram alert integration
 - Device discovery and management
 
-## 🌐 Web Security Research
+## Web Security Research
 - Burp Suite testing labs
 - Web vulnerability analysis
 - HTTP request manipulation
 
-## 🧠 OSINT & Recon Lab
+## OSINT & Recon Lab
 - Shodan reconnaissance
 - theHarvester enumeration
 - Information gathering techniques
 
-## ⚡ Embedded Systems Research
+## Embedded Systems Research
 - 6-phase motor experiments
 - ESP32 projects
 - Embedded controller development
 
 ---
 
-# 📈 Currently Learning
+# Currently Learning
 
 - Threat Hunting
 - Malware Analysis
@@ -155,5 +155,5 @@ I actively improve my practical cybersecurity skills through home labs, research
 
 # 📫 Contact
 
-📧 Email: azamatnakonov@gmail.com  
-💼 LinkedIn: www.linkedin.com/in/azamat-nakonov-5340963a3
+Email: azamatnakonov@gmail.com  
+LinkedIn: www.linkedin.com/in/azamat-nakonov-5340963a3
