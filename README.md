@@ -103,9 +103,7 @@ I actively improve my practical cybersecurity skills through home labs, research
 <div>
 <img src="https://img.shields.io/badge/-Google_Cybersecurity-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cisco_Cybersecurity_Essentials-1BA0D7?&style=for-the-badge&logo=cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-ICIP-0047AB?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-OPSWAT_Academy-5C2D91?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CISSP_Bootcamp-0052CC?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-ICIP_OPSWAT_Academy-5C2D91?&style=for-the-badge&logoColor=white" />
 </div>
 
 ---
