@@ -6,7 +6,7 @@
 
 ---
 
-## <img src="https://githubusercontent.com" width="35" align="center"> About me
+## <img src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/refs/heads/main/Images/about_me.gif" width="35" align="center"> About me
 
 I am an Information Security student at **Astana IT University** with a strong interest in **Cybersecurity, Networking, Systems, Programming, and Embedded Engineering**.
 
