@@ -6,11 +6,11 @@
 
 ---
 
-## 🚀 About Me
+## <img src="https://githubusercontent.com" width="35" align="center"> About me
 
 I am an Information Security student at **Astana IT University** with a strong interest in **Cybersecurity, Networking, Systems, Programming, and Embedded Engineering**.
 
-I enjoy building practical projects, creating home labs, analyzing systems and networks, automating tasks, and learning how technologies work from both software and hardware perspectives.
+I enjoy building practical projects, creating home labs, and exploring software, hardware, and networks.
 
 My main areas of interest are:
 
@@ -18,12 +18,9 @@ My main areas of interest are:
 * 🌐 Networking & Network Security
 * 🛡️ SOC & Threat Detection
 * 🐧 Linux & System Administration
-* 🐍 Python & Automation
 * 💻 Systems & Infrastructure
 * ⚙️ Embedded Systems & Electronics
 * 🗄️ Databases & SQL
-
-I am currently building practical projects and documenting my work on GitHub.
 
 ---
 
@@ -55,7 +52,7 @@ I believe that strong cybersecurity starts with understanding how **networks, op
 | 🐧 Linux         | Administration, networking, permissions, services, security  |
 | 🪟 Windows       | Administration, logs, security and Active Directory          |
 | 🐍 Programming   | Python, Bash, automation and security tools                  |
-| 🗄️ Databases    | PostgreSQL, SQL, database design and normalization           |
+| 🗄️ Databases     | PostgreSQL, SQL, database design and normalization           |
 | ⚙️ Embedded      | STM32, ESP32, electronics and controller development         |
 | 🏠 IoT           | Home automation, monitoring and device security              |
 
