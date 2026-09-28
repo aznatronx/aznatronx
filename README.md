@@ -43,21 +43,6 @@ I believe that strong cybersecurity starts with understanding how **networks, op
 
 ---
 
-# 🧠 Core Areas
-
-| Area             | Focus                                                        |
-| ---------------- | ------------------------------------------------------------ |
-| 🔐 Cybersecurity | SOC, threat detection, security labs, incident investigation |
-| 🌐 Networking    | TCP/IP, routing, switching, VLANs, network analysis          |
-| 🐧 Linux         | Administration, networking, permissions, services, security  |
-| 🪟 Windows       | Administration, logs, security and Active Directory          |
-| 🐍 Programming   | Python, Bash, automation and security tools                  |
-| 🗄️ Databases     | PostgreSQL, SQL, database design and normalization           |
-| ⚙️ Embedded      | STM32, ESP32, electronics and controller development         |
-| 🏠 IoT           | Home automation, monitoring and device security              |
-
----
-
 # 🛠️ Technologies & Tools
 
 ## 🔐 Cybersecurity
@@ -87,7 +72,6 @@ I believe that strong cybersecurity starts with understanding how **networks, op
 ## 🐧 Operating Systems
 
 <div>
-<img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white" />
 <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=windows&logoColor=white" />
