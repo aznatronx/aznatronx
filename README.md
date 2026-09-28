@@ -219,43 +219,6 @@ Experimental six-phase motor and controller development project.
 
 ---
 
-# 📚 Currently Learning
-
-### Cybersecurity
-
-* SOC Operations
-* Threat Detection
-* Threat Hunting
-* Incident Response
-* Detection Engineering
-* Active Directory Security
-* Web Security
-
-### IT & Infrastructure
-
-* Linux Administration
-* Windows Administration
-* Networking
-* Virtualization
-* System Security
-
-### Development
-
-* Python
-* Bash
-* SQL
-* C/C++
-
-### Engineering
-
-* STM32
-* ESP32
-* Embedded Systems
-* PCB Design
-* Motor Control
-
----
-
 # 🏆 Certifications
 
 <div>
